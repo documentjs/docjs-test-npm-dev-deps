@@ -1,0 +1,22 @@
+{
+  "name": "docjs-test-npm-dev-deps",
+  "version": "0.1.0",
+  "description": "A test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/documentjs/docjs-test-npm-dev-deps.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/documentjs/docjs-test-npm-dev-deps/issues"
+  },
+  "homepage": "https://github.com/documentjs/docjs-test-npm-dev-deps",
+  "docDependencies": {
+  	"can-set": "^0.2.0"
+  }
+}
